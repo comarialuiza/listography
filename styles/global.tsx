@@ -9,6 +9,10 @@ export const GlobalStyle = createGlobalStyle`
             Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
     }
 
+    body {
+        background-color: orangered;
+    }
+
     a {
         color: inherit;
         text-decoration: none;
